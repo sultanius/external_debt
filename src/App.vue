@@ -4,7 +4,8 @@
       @click="externalCount()"
       alt="Vue logo"
       style="width:350px;"
-      src="https://sun9-81.userapi.com/impg/zydtTlwig-GTRpzIuKVOrj277365k5oTsykfPQ/hdLgMbCaoFA.jpg?size=960x1280&quality=95&sign=3145f7c7c31deadaac3c81743855f5e9&type=album">
+      >
+      <!-- src="https://sun9-81.userapi.com/impg/zydtTlwig-GTRpzIuKVOrj277365k5oTsykfPQ/hdLgMbCaoFA.jpg?size=960x1280&quality=95&sign=3145f7c7c31deadaac3c81743855f5e9&type=album" -->
       <p
         style="font-size: 36px"
       >
